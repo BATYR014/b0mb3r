@@ -2,7 +2,7 @@ from setuptools import setup
 
 NAME = "b0mb3r"
 DESCRIPTION = "Открытый и бесплатный СМС бомбер 💣"
-URL = "https://github.com/BATYR014/bomber.git"
+URL = "https://github.com/BATYR014/b0mb3r.git"
 EMAIL = ""
 AUTHOR = "BATYR014"
 REQUIRES_PYTHON = ">=3.7.0"
